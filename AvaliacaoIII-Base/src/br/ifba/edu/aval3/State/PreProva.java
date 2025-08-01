@@ -4,7 +4,7 @@ public class PreProva implements FaseState{
 
     @Override
     public FaseState mudarFase(){
-        return new MomentoLargada();
+        return new Largada();
     }
 
 }

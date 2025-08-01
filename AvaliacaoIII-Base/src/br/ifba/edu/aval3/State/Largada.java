@@ -1,7 +1,7 @@
 package br.ifba.edu.aval3.State;
 
 // State
-public class MomentoLargada implements FaseState {
+public class Largada implements FaseState {
 
     @Override
     public FaseState mudarFase() {
