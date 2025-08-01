@@ -1,0 +1,7 @@
+Pré-Prova - registro a largada. // Registra os dados do atleta antes do atleta se apresentar pra largada
+
+Momento da Largada - registra atraso (partida efetiva - partida prevista). // Quando o atleta se apresentou para a largada, mas ainda não registrou a Largada
+
+Pista - registra o atraso, prismas e a chegada. // Acontece após o registro da largada e antes do registro da chegada
+
+Pós Prova - registra o atraso. // Após o atleta ter registrado a chegada
